@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+
+.frame {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+}
